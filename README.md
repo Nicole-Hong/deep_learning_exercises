@@ -7,6 +7,7 @@ The objective of this project is to build the hands-on practice by creating prog
 * LSTM - Time Series
 * LSTM - NLP
 * BERT - NLP
+* GAN - Computer Vision
 
 ### How to use this repository
 
