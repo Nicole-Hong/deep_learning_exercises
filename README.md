@@ -37,4 +37,6 @@ This repository has the following main directories:
 This project has been developed using Python, Jupyter Notebook and Google CoLab, which are run on a Windows system. For Deep Learning and Transformer Models, GPU / TPU in Google CoLab were required.
 
 
-
+### Reference Link
+* [LSTM Time Series](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction)
+*  
