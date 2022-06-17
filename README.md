@@ -40,4 +40,5 @@ This project has been developed using Python, Jupyter Notebook and Google CoLab,
 ### Reference Link
 * [LSTM Time Series](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction)
 * [Example RNN/LSTM/GRU Time Series - Kaggle](https://www.kaggle.com/code/charel/learn-by-example-rnn-lstm-gru-time-series/notebook)
+* [Keras/TensorFlow Coding Examples](https://keras.io/examples/)
 
