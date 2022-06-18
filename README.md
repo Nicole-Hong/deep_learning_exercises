@@ -10,6 +10,7 @@ The objective of this project is to build the use cases of various deep learning
 * LSTM - NLP
 * BERT - NLP
 * GAN - Computer Vision
+* Reinforcement Learning
 
 ## How to use this repository
 
