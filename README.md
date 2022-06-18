@@ -17,8 +17,8 @@ The objective of this project is to build the use cases of various deep learning
 This repository has the following main directories:
 
 * __data:__ Keras datasets such as MNIST and Fashion MNIST
-* __figures:__ visualizations generated from running models
-* __images:__ diagrams & video outputs generated from code and created for summary of processes and components
+* __figures:__ visualizations & video outputs generated from running models
+* __images:__ diagrams created for summary of processes and components
 * __src:__ code for various deep learning models
 
 
