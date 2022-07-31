@@ -43,4 +43,5 @@ This project has been developed using Python, Jupyter Notebook and Google CoLab,
 * [Example RNN/LSTM/GRU Time Series - Kaggle](https://www.kaggle.com/code/charel/learn-by-example-rnn-lstm-gru-time-series/notebook)
 * [Keras/TensorFlow Coding Examples](https://keras.io/examples/)
 * [TensorFlow Tutorials](https://www.tensorflow.org/hub/tutorials)
+* [Responsible AI](https://www.tensorflow.org/responsible_ai)
 
