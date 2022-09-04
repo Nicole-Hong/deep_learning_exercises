@@ -44,4 +44,5 @@ This project has been developed using Python, Jupyter Notebook and Google CoLab,
 * [Keras/TensorFlow Coding Examples](https://keras.io/examples/)
 * [TensorFlow Tutorials](https://www.tensorflow.org/hub/tutorials)
 * [Responsible AI](https://www.tensorflow.org/responsible_ai)
+* [TensorFlow-Computer Vision](https://www.tensorflow.org/graphics/overview)
 
